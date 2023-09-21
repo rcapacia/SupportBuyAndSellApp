@@ -1,0 +1,204 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Milwaukee",
+      "description": "Drill combo set",
+      "price": 10.89,
+      "address": "123 Main St",
+      "icon": "/images/a.png",
+      "type": "Fashion"
+    },
+    {
+      "id": 2,
+      "name": "New Iphone 20",
+      "description": "Brand New",
+      "price": 17.99,
+      "address": "46 Elm St",
+      "icon": "/images/b.png",
+      "type": "home"
+    },
+    {
+      "name": "Milwaukee Cordless Mower",
+      "description": "In good condition",
+      "price": 30,
+      "address": "987 Elmo St",
+      "icon": "/images/c.png",
+      "user_id": 3,
+      "id": 3
+    },
+    {
+      "name": "Silver Rare watch",
+      "description": "Very hard to find",
+      "price": 5.95,
+      "address": "1234 Maple Ave",
+      "icon": "/images/d.png",
+      "user_id": 4,
+      "id": 4
+    },
+    {
+      "name": "Toyota TRD wheels",
+      "description": "Never used/brand new",
+      "price": 50,
+      "icon": "/images/f.png",
+      "address": "Shop",
+      "user_id": 1,
+      "id": 5
+    },
+    {
+      "name": "Used Ridgid Saw",
+      "description": "Good condition",
+      "price": 59,
+      "address": "1600 Pennsylvania Ave NW, Washington, DC 20006",
+      "icon": "/images/g.png",
+      "user_id": 2,
+      "id": 6
+    },
+    {
+      "name": "Jordan 23's",
+      "description": "used once",
+      "price": 73,
+      "address": "Piazza del Duomo - 56126 Pisa (PI)",
+      "icon": "/images/h.png",
+      "user_id": 2,
+      "id": 7
+    },
+    {
+      "name": "DeWalt nailer",
+      "description": "Yellow",
+      "price": 17,
+      "address": "Piazza del Duomo - 56126 Pisa (PI)",
+      "icon": "/images/i.png",
+      "user_id": 2,
+      "id": 8
+    },
+    {
+      "name": "panda Dunks",
+      "description": "black and white Jordans",
+      "price": 43,
+      "address": "Piazza del Duomo - 56126 Pisa (PI)",
+      "icon": "/images/j.png",
+      "user_id": 2,
+      "id": 9
+    },
+    {
+      "name": "Gameboy flip",
+      "description": "hard find must sell today",
+      "price": 17.5,
+      "address": "Piazza del Duomo - 56126 Pisa (PI)",
+      "icon": "/images/k.png",
+      "user_id": 2,
+      "id": 10
+    },
+    {
+      "name": "MCM dresser",
+      "description": "redone to perfection",
+      "price": 100,
+      "address": "Piazza del Duomo - 56126 Pisa (PI)",
+      "icon": "/images/l.png",
+      "user_id": 2,
+      "id": 11
+    },
+    {
+      "name": "Sheep Rocker",
+      "description": "white and wood made",
+      "price": 30,
+      "address": "Piazza del Duomo - 56126 Pisa (PI)",
+      "icon": "/images/m.png",
+      "user_id": 2,
+      "id": 12
+    },
+    {
+      "name": "huffy blue rider",
+      "description": "needs fixing",
+      "price": 75,
+      "address": "Piazza del Duomo - 56126 Pisa (PI)",
+      "icon": "/images/n.png",
+      "user_id": 2,
+      "id": 13
+    },
+    {
+      "name": "Power Rangers play set",
+      "description": "rare and old, play nice",
+      "price": 66.99,
+      "address": "Piazza del Duomo - 56126 Pisa (PI)",
+      "icon": "/images/o.png",
+      "user_id": 2,
+      "id": 14
+    },
+    {
+      "name": "Homemade knives",
+      "description": "1040 steel",
+      "price": 25,
+      "address": "Piazza del Duomo - 56126 Pisa (PI)",
+      "icon": "/images/p.png",
+      "user_id": 2,
+      "id": 15
+    },
+    {
+      "name": "Rarest card in Pokemon",
+      "description": "Yellow pikachu chu!",
+      "price": 700,
+      "address": "Piazza del Duomo - 56126 Pisa (PI)",
+      "icon": "/images/q.png",
+      "user_id": 2,
+      "id": 16
+    },
+    {
+      "name": "Beats Solo",
+      "description": "rose gold headset",
+      "price": 77.99,
+      "image": "image.jpg",
+      "address": "Piazza del Duomo - 56126 Pisa (PI)",
+      "icon": "/images/r.png",
+      "user_id": 2,
+      "id": 17
+    },
+    {
+      "name": "HP Multi Printer",
+      "description": "Fax, print and copy in one",
+      "price": 34.9,
+      "address": "Piazza del Duomo - 56126 Pisa (PI)",
+      "icon": "/images/s.png",
+      "user_id": 2,
+      "id": 18
+    }
+  ],
+  "users": [
+    {
+      "email": "test@example.com",
+      "password": "$2a$10$JKhtuUOALTTVludrzxDBduVk8hT9TsaCApq33waHAwu7Wd165EwLy",
+      "fullName": "John Doe",
+      "phoneNumber": "1234567890",
+      "id": 1
+    },
+    {
+      "email": "test2@example.com",
+      "password": "$2a$10$WyyI0zXgpMio8BF76Tu8s.eKc8SThYTLDf708XvjfwnT50TOUZ.zW",
+      "fullName": "John Two",
+      "phoneNumber": "1234567890",
+      "id": 2
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$MdoNy8.0GL/M5KYsMDF2POvS1/6FT5/6QCVb1aMeqBaT3X0ydhs2e",
+      "fullName": "admin",
+      "phoneNumber": "12345",
+      "id": 3
+    },
+    {
+      "email": "New@gmail.com",
+      "password": "$2a$10$uwMBkan.SyO1JH.BkvwuUeYH.y0K/bv6.CAnqBBQgCHOqdMB6H7VC",
+      "fullName": "New User",
+      "phoneNumber": "123456",
+      "id": 4
+    },
+    {
+      "email": "go@gmail.com",
+      "password": "$2a$10$bqMDPrSdWv.kEj7c1JhaZubOIZ24mxzkXW2KxQPCjE.ZQaxZh/vBK",
+      "fullName": "go",
+      "phoneNumber": "test",
+      "id": 5
+    }
+  ]
+}

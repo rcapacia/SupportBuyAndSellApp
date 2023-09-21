@@ -1,0 +1,99 @@
+.form-container {
+  margin-bottom: 3rem;
+  background-color: #fff;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 30px;
+}
+
+
+.form-container h4 {
+  font-size: 1.5rem;
+  margin-top: 2rem;
+  color: black;
+}
+
+.form-container .form-control {
+  margin-bottom: 1rem;
+  border-radius: 5px;
+  padding: 1rem;
+}
+
+
+.form-container .text-end a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+
+.form-container .btn-block {
+  background-color: black;
+  color: #fff;
+  font-weight: bold;
+  border: none;
+  border-radius: 10px;
+  padding: 13px;
+  transition: background-color 0.3s;
+}
+
+.form-container .btn-block:hover {
+  background-color: #0056b3;
+}
+
+
+.form-container .text-center {
+  margin-top: 2rem;
+  color: #777;
+}
+
+.form-container .btn-social:hover {
+  background-color: #f0f0f0;
+}
+
+.form-container hr {
+  border: none;
+  border-top: 1px solid #eee;
+  margin-top: 2rem;
+}
+
+.form-container .text-center p:last-child {
+  margin-top: 1rem;
+  color: black;
+}
+
+/* .signin-container {
+    max-width: 350px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: turquoise;
+  }
+  
+  .signin-container h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .signin-container form label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .signin-container input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .signin-container button {
+    background-color: white;
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 3px;
+    cursor: pointer;
+  } */
+

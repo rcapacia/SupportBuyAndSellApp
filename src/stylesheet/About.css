@@ -1,0 +1,89 @@
+.about-section {
+  background: white;
+  /* padding: 80px 0; */
+}
+
+.squad-list {
+  background: rgb(210, 229, 249);
+  text-align: center;
+  margin: 20px 0;
+  padding: 50px 20px 40px 20px;
+  border-radius: 8px 8px;
+  -webkit-transition: all 0.25s ease-in-out;
+  -moz-transition: all 0.25s ease-in-out;
+  -ms-transition: all 0.25s ease-in-out;
+  -o-transition: all 0.25s ease-in-out;
+  transition: all 0.25s ease-in-out;
+}
+
+.squad-list > img {
+  max-width: 140px;
+  padding: 6px 6px;
+  background-color: white;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+}
+
+ul.squad-icons {
+  margin-top: 25px;
+}
+
+ul.squad-icons li {
+  display: inline-block;
+  margin: 10px;
+  padding: 8px 8px;
+  width: 34px;
+  height: 34px;
+  font-size: 18px;
+  line-height: 18px;
+  background-color: white;
+  border-radius: 50%;
+
+  -webkit-transition: all 0.25s ease-in-out;
+  -moz-transition: all 0.25s ease-in-out;
+  -ms-transition: all 0.25s ease-in-out;
+  -o-transition: all 0.25s ease-in-out;
+  transition: all 0.25s ease-in-out;
+}
+ul.squad-icons li s-media {
+  background-color: #008aff;
+}
+
+.squad-list:hover {
+  background: rgb(13, 110, 255);
+  color: white;
+}
+
+.squad-list h3 {
+  margin: 20px 0 1px 0 !important;
+  color: black;
+  font-size: 20px;
+  font-weight: 800;
+  text-transform: uppercase;
+  transition: all 0.25s ease-in-out;
+}
+.squad-list:hover {
+  color: #ddd;
+}
+
+.about-title {
+  white-space: pre-line;
+}
+
+.squad-info p {
+  color: #acacac;
+  font-style: italic;
+}
+
+.squad-list2 {
+  text-align: center;
+  margin: 20px 0;
+  padding: 50px 20px 40px 20px;
+  border-radius: 8px 8px;
+  -webkit-transition: all 0.25s ease-in-out;
+  -moz-transition: all 0.25s ease-in-out;
+  -ms-transition: all 0.25s ease-in-out;
+  -o-transition: all 0.25s ease-in-out;
+  transition: all 0.25s ease-in-out;
+}

@@ -1,0 +1,96 @@
+.leftCreate-container > img {
+  width: 550px;
+}
+
+.createForm {
+  margin-top: 30px;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-weight: 800;
+}
+
+.splitScreen {
+  display: flex;
+  flex-direction: row;
+}
+
+.leftCreate-container {
+  height: 200px;
+}
+
+.leftCreate-container,
+.rightCreate-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.leftCreate-container {
+  background: rgb(202, 218, 250);
+}
+
+.rightCreate-container {
+  color: black;
+}
+.rightCreate-container > p {
+  text-align: center;
+}
+
+.rightCreate-container form {
+  width: 360px;
+  text-align: left;
+}
+.input {
+  display: block;
+  width: 360px;
+  box-sizing: border-box;
+  border-radius: 8px;
+  border: 1px solid rgb(202, 218, 250);
+  padding: 1em;
+  margin-bottom: 1.25rem;
+  font-size: 0.9rem;
+}
+
+label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-size: 0.75rem;
+}
+
+.createBtn {
+  display: block;
+  width: 100%;
+  background: rgb(4, 133, 246);
+  color: white;
+  font-weight: 800;
+  border: none;
+  padding: 1rem;
+  border-radius: 8px;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.createBtn:hover {
+  background: rgb(176, 214, 248);
+  cursor: pointer;
+}
+
+@media screen and (min-width: 900px) {
+  .splitScreen {
+    flex-direction: row;
+    height: 100vh;
+  }
+  .leftCreate-container,
+  .rightCreate-container {
+    display: flex;
+    width: 50%;
+    height: auto;
+  }
+}
+
+.cancel {
+  margin-top: 30px;
+}
