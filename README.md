@@ -78,13 +78,16 @@ Google Map API:  <br/>
 <br />
 Products page:  <br/>
 <img src="https://i.ibb.co/C7gs8Ld/Screenshot-2023-09-21-at-8-32-07-PM.png" height="80%" width="80%" alt="Products"/>
-</p>
+<br />
+<br />
 View Product page:  <br/>
 <img src="https://i.ibb.co/5KvV6pS/Screenshot-2023-09-21-at-8-32-15-PM.png" height="80%" width="80%" alt="View Products"/>
-</p>
+<br />
+<br />
 Update Product page:  <br/>
 <img src="https://i.ibb.co/HzGBd3g/Screenshot-2023-09-21-at-8-32-41-PM.png" height="80%" width="80%" alt="Update Products"/>
-</p>
+<br />
+<br />
 Create Product page:  <br/>
 <img src="https://i.ibb.co/hdRtZ8P/Screenshot-2023-09-21-at-8-31-49-PM.png" height="80%" width="80%" alt="Create Products"/>
 </p>
