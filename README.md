@@ -1,10 +1,14 @@
-# Getting Started with Create React App
+# Welcome to our App! This is Support! 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+This app was created as a Frontend app consisting of HTML, CSS, Javascript and React. A json database was created to house all the product info and a google map api was used for location mapping of a certain product. Our Support was created as a new version of popular apps such as "OfferUp" , "5mile" , "FBmarketPlace" and etc. A Buy and reSell app for e-commerce if you will. 
+.
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+Which install your node modules needs for our app.
 
 ### `npm start`
 
@@ -14,57 +18,73 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
+### `npm run mock-server`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Launches the mock server for interaction mode with our app. 
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<h2>Description</h2>
+    This app consists of a Login and SignUp user and to view products. CRUD operations were used to make it possible to create new products and to read each products. It was also use to update and delete products. A must be Logged in feature was coded for users only to be able to delete and update each users item/products. The use of a google API makes it possible to view the location of each product created. Other features such as buy now, shopping cart, pin products and profile customization will be add in phase two. 
+   Welcome to Support App!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+   
 
-### `npm run eject`
+<h2>Environments Used </h2>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- <b>Mac OS</b>
+- <b>Window</b>
+- <b>VS Code</b> 
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<h2>Languages and Utilities Used</h2>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- <b>HTML</b>
+- <b>CSS</b>
+- <b>Javascript</b>
+- <b>React</b>
+- <b>JSON server</b>
+- <b>Google API</b>
+- <b>CRUD operations</b>
 
-## Learn More
+   
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Screenshot
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="center">
+Homepage: <br/>
+<img src="https://i.ibb.co/d5KWZyq/Screenshot-2023-09-21-at-8-28-31-PM.png" height="80%" width="80%" alt="Support App Homepage"/>
+<br />
+<br />
+Footer:  <br/>
+<img src="https://i.ibb.co/SVXG564/Screenshot-2023-09-21-at-8-28-49-PM.png" height="80%" width="80%" alt="Footer IMG"/>
+<br />
+<br />
+Sign-up User Page: <br/>
+<img src="https://i.ibb.co/K00VkCp/Screenshot-2023-09-21-at-8-29-45-PM.png" height="80%" width="80%" alt="SignUp IMG"/>
+<br />
+<br />
+Login User Page:  <br/>
+<img src="https://i.ibb.co/MMCBgDw/Screenshot-2023-09-21-at-8-30-58-PM.png" height="80%" width="80%" alt="SignIn IMG"/>
+<br />
+<br />
+User Profile Page, consisting profile, data and products user has uploaded to app:  <br/>
+<img src="https://i.ibb.co/N3X4131/Screenshot-2023-09-21-at-8-31-34-PM.png" height="80%" width="80%" alt="Profile IMG"/>
+<br />
+<br />
+Google Map API:  <br/>
+<img src="https://i.ibb.co/dPD1vv1/Screenshot-2023-09-21-at-8-29-31-PM.png" height="80%" width="80%" alt="API IMG"/>
+<br />
+<br />
+Products page:  <br/>
+<img src="https://i.ibb.co/C7gs8Ld/Screenshot-2023-09-21-at-8-32-07-PM.png" height="80%" width="80%" alt="Products"/>
+</p>
+View Product page:  <br/>
+<img src="https://i.ibb.co/5KvV6pS/Screenshot-2023-09-21-at-8-32-15-PM.png" height="80%" width="80%" alt="View Products"/>
+</p>
+Update Product page:  <br/>
+<img src="https://i.ibb.co/HzGBd3g/Screenshot-2023-09-21-at-8-32-41-PM.png" height="80%" width="80%" alt="Update Products"/>
+</p>
+Create Product page:  <br/>
+<img src="https://i.ibb.co/hdRtZ8P/Screenshot-2023-09-21-at-8-31-49-PM.png" height="80%" width="80%" alt="Create Products"/>
+</p>
